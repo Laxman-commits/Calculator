@@ -4,40 +4,26 @@ This repository contains a fully functional web-based calculator built using HTM
 
 ## Features
 
-<h3>Basic Arithmetic Operations</h3>
-<ul>
-  <li>Perform addition, subtraction, multiplication, division, and modulus operations.</li>
-</ul>
+### Basic Arithmetic Operations
+- Perform addition, subtraction, multiplication, division, and modulus operations.
 
-<h3>Input Validation</h3>
-<ul>
-  <li>Ensures valid input by preventing consecutive operators and invalid operator placement.</li>
-</ul>
+### Input Validation
+- Ensures valid input by preventing consecutive operators and invalid operator placement.
 
-<h3>Real-Time Calculation</h3>
-<ul>
-  <li>Displays the result immediately after the equal sign (`=`) is pressed.</li>
-</ul>
+### Real-Time Calculation
+- Displays the result immediately after the equal sign (`=`) is pressed.
 
-<h3>Clear Functions</h3>
-<ul>
-  <li>Includes 'C' button to clear the entire input and 'CE' button to clear the last entered character.</li>
-</ul>
+### Clear Functions
+- Includes 'C' button to clear the entire input and 'CE' button to clear the last entered character.
 
-<h3>Prevent Duplicate Decimal Points</h3>
-<ul>
-  <li>Ensures that multiple decimal points are not entered consecutively.</li>
-</ul>
+### Prevent Duplicate Decimal Points
+- Ensures that multiple decimal points are not entered consecutively.
 
-<h3>Operator Replacement</h3>
-<ul>
-  <li>Automatically replaces the last operator if a new one is entered immediately after.</li>
-</ul>
+### Operator Replacement
+- Automatically replaces the last operator if a new one is entered immediately after.
 
-<h3>Responsive Design</h3>
-<ul>
-  <li>The calculator layout is responsive and adapts to different screen sizes for optimal user experience.</li>
-</ul>
+### Responsive Design
+- The calculator layout is responsive and adapts to different screen sizes for optimal user experience.
 
 ## Usage
 
@@ -53,4 +39,4 @@ To use this calculator:
     ```
 3. Open the `index.html` file in your preferred web browser.
 
-
+Alternatively, you can use the online version of the calculator [here](https://calculator-zeta-livid-22.vercel.app/).
