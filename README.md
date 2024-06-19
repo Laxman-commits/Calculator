@@ -39,4 +39,4 @@ To use this calculator:
     ```
 3. Open the `index.html` file in your preferred web browser.
 
-Alternatively, you can use the online version of the calculator [here](https://calculator-zeta-livid-22.vercel.app/).
+Alternatively, you can use the calculator online [here](https://calculator-zeta-livid-22.vercel.app/).
